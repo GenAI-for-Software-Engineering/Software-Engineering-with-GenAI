@@ -19,6 +19,7 @@ This repository contains:
 | 3 | Automated Pipeline for Identifying FR and NFR | [📄 Assignment](Assignments/Lab3) | — | [📚 Reference video](https://www.youtube.com/watch?v=UtSSMs6ObqY) |
 | 4 | Extending the Pipeline: User Stories, Prototyping & Automated Testing | [📄 Assignment](Assignments/Lab4) | — | — |
 | 5 | AI-Powered Chrome Extension for Real-Time Requirement Analysis | [📄 Assignment](Assignments/Lab5) | [🎥 Watch](https://drive.google.com/file/d/1zHLNDweDVLNEPZdYSo6uFqeHbuqvnzT8/view) | [📚 Material](Material/Lab5) |
+| 6 | Requirement Formalization & Process Modeling | [📄 Assignment](Assignments/Lab6) | — | — |
 
 > Lab 1–3 assignments come in group variants (G1–G2, G3–G4, G5–G6) — see each lab's folder. Lab 4 is a single assignment (a direct extension of Lab 3).
 
@@ -48,8 +49,10 @@ This repository contains:
 │   │   └── Take_Home_Assignment_2.pdf
 │   ├── Lab4/
 │   │   └── IT314_Lab_Assignment_4.pdf
-│   └── Lab5/
-│       └── Lab5_Assignment.pdf
+│   ├── Lab5/
+│   │   └── Lab5_Assignment.pdf
+│   └── Lab6/
+│       └── IT314_Lab_Assignment_6.pdf
 │
 └── Material/
     ├── Lab1/
