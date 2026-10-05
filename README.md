@@ -21,8 +21,9 @@ This repository contains:
 | 5 | AI-Powered Chrome Extension for Real-Time Requirement Analysis | [📄 Assignment](Assignments/Lab5) | [🎥 Watch](https://drive.google.com/file/d/1zHLNDweDVLNEPZdYSo6uFqeHbuqvnzT8/view) | [📚 Material](Material/Lab5) |
 | 6 | Requirement Formalization & Process Modeling | [📄 Assignment](Assignments/Lab6) | — | — |
 | 7 | From Requirements to UML Class Design, Implementation and Execution | [📄 Assignment](Assignments/Lab7) | — | — |
+| 8 | From Requirements to UML State Design, Implementation and Execution | [📄 Assignment](Assignments/Lab8) | — | — |
 
-> Lab 1–3 assignments come in group variants (G1–G2, G3–G4, G5–G6) — see each lab's folder. Lab 4 is a single assignment (a direct extension of Lab 3). Lab 7 has day-wise PDFs (Day 1–3) for the same assignment.
+> Lab 1–3 assignments come in group variants (G1–G2, G3–G4, G5–G6) — see each lab's folder. Lab 4 is a single assignment (a direct extension of Lab 3). Lab 7 has day-wise PDFs (Day 1–3) for the same assignment. Lab 8 has three scenario variants (Cab Ride Booking, Home Appliance Repair, Online Food Ordering).
 
 ---
 
@@ -54,10 +55,14 @@ This repository contains:
 │   │   └── Lab5_Assignment.pdf
 │   ├── Lab6/
 │   │   └── IT314_Lab_Assignment_6.pdf
-│   └── Lab7/
-│       ├── IT314_Lab7_Day1.pdf
-│       ├── IT314_Lab7_Day2.pdf
-│       └── IT314_Lab7_Day3.pdf
+│   ├── Lab7/
+│   │   ├── IT314_Lab7_Day1.pdf
+│   │   ├── IT314_Lab7_Day2.pdf
+│   │   └── IT314_Lab7_Day3.pdf
+│   └── Lab8/
+│       ├── IT314_Lab_Assignment_8_Cab_Ride_Booking.docx
+│       ├── IT314_Lab_Assignment_8_Home_Appliance_Repair.docx
+│       └── IT314_Lab_Assignment_8_Online_Food_Ordering.docx
 │
 └── Material/
     ├── Lab1/
