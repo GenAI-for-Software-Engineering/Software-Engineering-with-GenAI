@@ -22,8 +22,10 @@ This repository contains:
 | 6 | Requirement Formalization & Process Modeling | [📄 Assignment](Assignments/Lab6) | — | — |
 | 7 | From Requirements to UML Class Design, Implementation and Execution | [📄 Assignment](Assignments/Lab7) | — | — |
 | 8 | From Requirements to UML State Design, Implementation and Execution | [📄 Assignment](Assignments/Lab8) | — | — |
+| 9 | From Requirements to a Defensible System Design | [📄 Assignment](Assignments/Lab9) | — | — |
+| 10 | Static Code Analysis with SonarQube | [📄 Assignment](Assignments/Lab10) | — | [📚 Material](Material/Lab10) |
 
-> Lab 1–3 assignments come in group variants (G1–G2, G3–G4, G5–G6) — see each lab's folder. Lab 4 is a single assignment (a direct extension of Lab 3). Lab 7 has day-wise PDFs (Day 1–3) for the same assignment. Lab 8 has three scenario variants (Cab Ride Booking, Home Appliance Repair, Online Food Ordering).
+> Lab 1–3 assignments come in group variants (G1–G2, G3–G4, G5–G6) — see each lab's folder. Lab 4 is a single assignment (a direct extension of Lab 3). Labs 7, 9 and 10 have multiple PDFs assigned group-wise, and Lab 8 has three scenario variants (Cab Ride Booking, Home Appliance Repair, Online Food Ordering).
 
 ---
 
@@ -59,10 +61,18 @@ This repository contains:
 │   │   ├── IT314_Lab7_Day1.pdf
 │   │   ├── IT314_Lab7_Day2.pdf
 │   │   └── IT314_Lab7_Day3.pdf
-│   └── Lab8/
-│       ├── IT314_Lab_Assignment_8_Cab_Ride_Booking.docx
-│       ├── IT314_Lab_Assignment_8_Home_Appliance_Repair.docx
-│       └── IT314_Lab_Assignment_8_Online_Food_Ordering.docx
+│   ├── Lab8/
+│   │   ├── IT314_Lab_Assignment_8_Cab_Ride_Booking.docx
+│   │   ├── IT314_Lab_Assignment_8_Home_Appliance_Repair.docx
+│   │   └── IT314_Lab_Assignment_8_Online_Food_Ordering.docx
+│   ├── Lab9/
+│   │   ├── System_Design_Lab_Assignment_Day1.pdf
+│   │   ├── System_Design_Lab_Assignment_Day2.pdf
+│   │   └── System_Design_Lab_Assignment_Day3.pdf
+│   └── Lab10/
+│       ├── Lab10_Day1_Instructions.pdf
+│       ├── Lab10_Day2_Instructions.pdf
+│       └── Lab10_Day3_Instructions.pdf
 │
 └── Material/
     ├── Lab1/
@@ -73,8 +83,12 @@ This repository contains:
     │   ├── LangGraph_SE_Lab_Updated_v2.pptx
     │   ├── Langchain_Presentation_IT314.pdf
     │   └── Prompt_Engineering_Techniques.pptx
-    └── Lab5/
-        └── Assignment_5.js
+    ├── Lab5/
+    │   └── Assignment_5.js
+    └── Lab10/
+        ├── Lab10_Day1_Code.zip
+        ├── Lab10_Day2_Code.zip
+        └── Lab10_Day3_Code.zip
 ```
 
 ---
@@ -82,6 +96,6 @@ This repository contains:
 ## Notes
 
 * Explanation and solution videos are provided for reference purposes.
-* Each lab's `Material/` folder (Lab 1, Lab 2, and Lab 5) contains slides, guides, and starter code for that lab.
+* Each lab's `Material/` folder (Lab 1, Lab 2, Lab 5, and Lab 10) contains slides, guides, and starter code for that lab.
 * Assignment PDFs vary slightly by group (G1–G2, G3–G4, G5–G6) but follow the same lab objective.
 * Sample code and starter files are intended for learning purposes and should not be copied directly into submissions.
