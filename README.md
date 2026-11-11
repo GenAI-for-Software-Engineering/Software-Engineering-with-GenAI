@@ -24,8 +24,9 @@ This repository contains:
 | 8 | From Requirements to UML State Design, Implementation and Execution | [📄 Assignment](Assignments/Lab8) | — | — |
 | 9 | From Requirements to a Defensible System Design | [📄 Assignment](Assignments/Lab9) | — | — |
 | 10 | Static Code Analysis with SonarQube | [📄 Assignment](Assignments/Lab10) | — | [📚 Material](Material/Lab10) |
+| 11 | Automated Unit Testing and Coverage Analysis | [📄 Assignment](Assignments/Lab11) | — | [📚 Material](Material/Lab11) |
 
-> Lab 1–3 assignments come in group variants (G1–G2, G3–G4, G5–G6) — see each lab's folder. Lab 4 is a single assignment (a direct extension of Lab 3). Labs 7, 9 and 10 have multiple PDFs assigned group-wise, and Lab 8 has three scenario variants (Cab Ride Booking, Home Appliance Repair, Online Food Ordering).
+> Lab 1–3 assignments come in group variants (G1–G2, G3–G4, G5–G6) — see each lab's folder. Lab 4 is a single assignment (a direct extension of Lab 3). Labs 7, 9 and 10 have multiple PDFs assigned group-wise. Lab 8 has three scenario variants (Cab Ride Booking, Home Appliance Repair, Online Food Ordering), and Lab 11 has three system variants (Ride Management, Library Management, E-Commerce Order Fulfillment), each with its own code in `Material/Lab11`.
 
 ---
 
@@ -69,10 +70,14 @@ This repository contains:
 │   │   ├── System_Design_Lab_Assignment_Day1.pdf
 │   │   ├── System_Design_Lab_Assignment_Day2.pdf
 │   │   └── System_Design_Lab_Assignment_Day3.pdf
-│   └── Lab10/
-│       ├── Lab10_Day1_Instructions.pdf
-│       ├── Lab10_Day2_Instructions.pdf
-│       └── Lab10_Day3_Instructions.pdf
+│   ├── Lab10/
+│   │   ├── Lab10_Day1_Instructions.pdf
+│   │   ├── Lab10_Day2_Instructions.pdf
+│   │   └── Lab10_Day3_Instructions.pdf
+│   └── Lab11/
+│       ├── Lab11_Assignment_1.pdf
+│       ├── Lab11_Assignment_2.pdf
+│       └── Lab11_Assignment_3.pdf
 │
 └── Material/
     ├── Lab1/
@@ -85,10 +90,14 @@ This repository contains:
     │   └── Prompt_Engineering_Techniques.pptx
     ├── Lab5/
     │   └── Assignment_5.js
-    └── Lab10/
-        ├── Lab10_Day1_Code.zip
-        ├── Lab10_Day2_Code.zip
-        └── Lab10_Day3_Code.zip
+    ├── Lab10/
+    │   ├── Lab10_Day1_Code.zip
+    │   ├── Lab10_Day2_Code.zip
+    │   └── Lab10_Day3_Code.zip
+    └── Lab11/
+        ├── ride_management_1.zip
+        ├── library-management_2.zip
+        └── Lab_11_ecommerce_fulfillment_3.zip
 ```
 
 ---
@@ -96,6 +105,6 @@ This repository contains:
 ## Notes
 
 * Explanation and solution videos are provided for reference purposes.
-* Each lab's `Material/` folder (Lab 1, Lab 2, Lab 5, and Lab 10) contains slides, guides, and starter code for that lab.
+* Each lab's `Material/` folder (Lab 1, Lab 2, Lab 5, Lab 10, and Lab 11) contains slides, guides, and starter code for that lab.
 * Assignment PDFs vary slightly by group (G1–G2, G3–G4, G5–G6) but follow the same lab objective.
 * Sample code and starter files are intended for learning purposes and should not be copied directly into submissions.
